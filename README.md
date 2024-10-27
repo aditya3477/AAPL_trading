@@ -1,4 +1,4 @@
-# AAPL_trading (Please do not hesitate to explore my other repositories to go through my work, I do not mind because I cannot track activites here 😆)
+# AAPL_trading (Please do not hesitate to explore my other repositories to go through my work, I do not mind)
 
 ## Prerequisites
 Before running this project, ensure that you have the following installed:
