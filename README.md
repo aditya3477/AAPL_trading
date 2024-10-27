@@ -13,6 +13,17 @@ pip install -r requirements. txt
 
 First clone the repository. The files and folders are structured in a way, to run the main code.
 
+To run the script, ensure that all the CSV files are in place, and execute the following command:
+```console
+python SAC.py
+```
+
+OR
+
+```console
+python SAC_optimized.py
+```
+
 # Output
 
 The trading schedule is stored in a file called trading_schedule.json (for SAC.py) and trading_schedule_optimized.json (for SAC_optimized.py). The models TWAP, VWAP and the SAC are compared on the transaction costs, for one day (390 minutes).
